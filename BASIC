@@ -1,0 +1,10 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+
+    cout << "hello guys" << endl;
+    cout << "we are learning GIT & GITHUB" << endl;
+
+    return 0;
+}
